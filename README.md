@@ -62,9 +62,9 @@
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO_GITHUB&repo=NOME_DO_REPO_1&theme=tokyonight&hide_border=true)](https://github.com/SEU_USUARIO_GITHUB/NOME_DO_REPO_1)
+[![Readme Card](http://127.0.0.1:5500/index.html)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO_GITHUB&repo=NOME_DO_REPO_2&theme=tokyonight&hide_border=true)](https://github.com/SEU_USUARIO_GITHUB/NOME_DO_REPO_2)
+[![Readme Card]
 
 </div>
 
