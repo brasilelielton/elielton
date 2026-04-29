@@ -46,11 +46,11 @@
 
 <div align="center">
 
-![Elielton's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br)
+![Elielton's GitHub Stats]
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br)
+![Top Langs]
 
-![GitHub Streak](https://streak-stats.demolab.com?user=SEU_USUARIO_GITHUB&theme=tokyonight&hide_border=true&locale=pt_BR)
+![GitHub Streak]
 
 </div>
 
